@@ -1,4 +1,4 @@
-# deepQ-Network_pendulum_swing-up
+# dPendulum_Swing_up-DQN
 This repository was developed by Edoardo Barba and Matteo Brugnera and it contains the code and documents for the final project of Optimization Robot Control course of the Master in Artificial Intelligent Systems at the University of Trento, a.y. 2022-2023.
 
 We delve into the problem of optimal control and stabilization of both the pendulum and double pendulum systems. The pendulum system, consisting
